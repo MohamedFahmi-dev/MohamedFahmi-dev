@@ -6,14 +6,11 @@
 <h3 align="center">Backend .NET Developer | Cairo, Egypt 🇪🇬</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-fahmy-6a1519202/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammad-fahmy-6a1519202/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="mailto:hamadafahmy085@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  <a href="https://github.com/MohamedFahmi-dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
   </a>
 </div>
 
@@ -48,8 +45,6 @@ I'm a <strong>Computer Science graduate</strong> from Zagazig University, specia
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
 </div>
 
 ---
