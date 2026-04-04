@@ -16,7 +16,7 @@
 
 ---
 
-### 👩‍💻 About ME
+### 👩‍💻 About Me
 
 <p align="left">
 I'm a <strong>Computer Science graduate</strong> from Zagazig University, specializing in backend development with ASP.NET Core.<br><br>
